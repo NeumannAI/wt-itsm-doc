@@ -159,7 +159,8 @@ logic.
 ITSM’s page consists of four areas which are shared by the two profiles
 ("self-service" and "Ticket"), refer to the below Figure (2).
 
-### **Area-1**  <img src="./media/image6.png" style="width:4.11319in;height:0.20347in" />
+### **Area-1**  
+<img src="./media/image6.png" style="width:4.11319in;height:0.20347in" />
 
 -   Search box: user can search in the system from this box <span
     dir="rtl"></span>
@@ -174,7 +175,8 @@ ITSM’s page consists of four areas which are shared by the two profiles
 -   Setting: user can add/update its information and password as shown
     in Figure (3)
 
-<img src="./media/image7.png" style="width:6.90694in;height:3.48681in" />
+	> <img src="./media/image7.png" style="width:6.90694in;height:3.48681in" />
+	> Figure (3)
 
 -   Surname: surname of the user
 
@@ -200,16 +202,16 @@ ITSM’s page consists of four areas which are shared by the two profiles
 
 -   Picture: user can add picture for its profile
 
-    -   <img src="./media/image9.png"
-        style="width:2.23403in;height:0.41736in" />Clear: remove the
-        picture
+    -   Clear: remove the picture
+    
+    	<img src="./media/image9.png" style="width:2.23403in;height:0.41736in" />
 
 -   Email: user can add more than one email by click on “plus button”
 
-    -   <img src="./media/image10.png"
-        style="width:2.35625in;height:1.28819in" />Default Email: when
-        user add more than one email, he/she can specify which email has
-        to be default by click on the email
+    -   Default Email: when user add more than one email, he/she can specify which email has to be default by click on the email 
+	    
+	    <img src="./media/image10.png"
+        style="width:2.35625in;height:1.28819in" />
 
 -   Default profile: user can choose which profile shown after log in
     page
@@ -224,7 +226,8 @@ ITSM’s page consists of four areas which are shared by the two profiles
 
     -   API token
 
-### **Area- 2** <img src="./media/image11.png" style="width:0.27986in;height:0.24236in" />
+### **Area- 2** 
+<img src="./media/image11.png" style="width:0.27986in;height:0.24236in" />
 
 When the user clicks this button, a pop-up page will be displayed, as
 illustrated in Figure (4), with all of the profile's tabs depending on
@@ -233,7 +236,8 @@ the profile type.
 <img src="./media/image12.png"
 style="width:3.87847in;height:1.60069in" />
 
-### **Area-3** <img src="./media/image14.png" style="width:1.40139in;height:0.24236in" />
+### **Area-3** 
+<img src="./media/image14.png" style="width:1.40139in;height:0.24236in" />
 
 <img src="./media/image15.png"
 style="width:1.72708in;height:0.21597in" /><img src="./media/image16.png"
@@ -251,14 +255,14 @@ style="width:1.37083in;height:0.60625in" />
 
 ###  **Area-4** 
 
-> From the drop-down menu, the user can alter his or her profile
-> depending on the functionality that must be performed.
+From the drop-down menu, the user can alter his or her profile
+depending on the functionality that must be performed.
 
 ## **Self – Service profile** 
 
-> When a user logs into the account, "Self-Service" profile with four
-> areas will appear by default Figure(6). Where the default profile can
-> be change see ([Area-1 Setting](#area-1)).
+When a user logs into the account, "Self-Service" profile with four
+areas will appear by default Figure(6). Where the default profile can
+be change see ([Area-1 Setting](#area-1)).
 
 <img src="./media/image20.png" style="width:7.5in;height:4.01597in" />
 
@@ -327,7 +331,7 @@ and “personal RSS feed” Figure (11).
 <img src="./media/image34.png"
 style="width:3.5375in;height:0.80556in" />
 
-> **Personal reminders**
+#### **Personal reminders**
 
 Users can view all previously set reminders, search for any reminder
 using the search engine Figure (12) and add a new reminder by" press +
@@ -335,7 +339,7 @@ button enter all the details ADD" Figure (13).
 
 <img src="./media/image36.png" style="width:6.9in;height:3.13542in" /><img src="./media/image38.png" style="width:6.9in;height:2.50365in" />
 
-> **Personal RSS feed**
+#### **Personal RSS feed**
 
 Really Simple Syndication (RSS) is a simple, standardized content
 distribution system that allows users to stay up to date with their
@@ -408,7 +412,8 @@ where it’s divided into three views:
 
 <img src="./media/image47.png" style="width:7.5in;height:4.35903in" />
 
-## <img src="./media/image49.png" style="width:1.43958in;height:0.59028in" />**Ticket profile**
+## **Ticket profile**
+<img src="./media/image49.png" style="width:1.43958in;height:0.59028in" />
 
 Users can change the profile type from the top right-hand side drop-down
 menu and then change it to the “Ticket” profile. This profile contains
@@ -416,13 +421,12 @@ three areas where the user can deal with the ticket Figure (18).
 
 <img src="./media/image50.png" style="width:6.9in;height:2.76736in" />
 
-<span id="_Toc100369360" class="anchor"></span>Area- 1 Home
+### Area- 1 Home
 
-> The home page provides simple dashboard Figure (19) of various data
-> collected by the system, including:
+The home page provides simple dashboard Figure (19) of various data
+collected by the system, including:
 
-<img src="./media/image52.png"
-style="width:5.75417in;height:3.20878in" />
+<img src="./media/image52.png" style="width:5.75417in;height:3.20878in" />
 
 <span id="_Toc100369361"
 class="anchor"></span><img src="./media/image54.png" style="width:1.075in;height:0.19167in" />Area-
@@ -453,8 +457,7 @@ ticket” tab or from home page as shown in Figure(20) the user must fill
 the mandatory fields to open a new ticket where the field described
 below:
 
-<img src="./media/image57.png"
-style="width:6.00833in;height:4.79242in" />
+<img src="./media/image57.png" style="width:6.00833in;height:4.79242in" />
 
 -   Type: A drop-down menu with two options:
 
