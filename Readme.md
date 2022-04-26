@@ -14,34 +14,7 @@ style="width:4in;height:3in" /></td>
 </tbody>
 </table>
 
-# **Version **
 
-<table>
-<colgroup>
-<col style="width: 12%" />
-<col style="width: 16%" />
-<col style="width: 44%" />
-<col style="width: 27%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Version </p></th>
-<th><p>Date </p></th>
-<th><p>Description </p></th>
-<th><p>Author / Reviewer </p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>1.0 </p></td>
-<td><p><strong>5</strong> <strong>April</strong> 2022 </p></td>
-<td><p><strong>ITSM manual</strong></p></td>
-<td><p><strong>Maha Alhobishi</strong> </p></td>
-</tr>
-</tbody>
-</table>
-
-# Table of Contents
 # Table of Contents
 
 [IT System managment 1](#_Toc100369342)
@@ -90,7 +63,34 @@ style="width:4in;height:3in" /></td>
 
 [**Ticket content** 22](#_Toc100369364)
 
-## **Goals & Objective**
+# **Version **
+
+<table>
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 16%" />
+<col style="width: 44%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>Version </p></th>
+<th><p>Date </p></th>
+<th><p>Description </p></th>
+<th><p>Author / Reviewer </p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1.0 </p></td>
+<td><p><strong>5</strong> <strong>April</strong> 2022 </p></td>
+<td><p><strong>ITSM manual</strong></p></td>
+<td><p><strong>Maha Alhobishi</strong> </p></td>
+</tr>
+</tbody>
+</table>
+
+# **Goals & Objective**
 
 The **purpose** of this Manual is to provide an overview of the Watad
 ITSM system and ensure that users get the most out of all the services
@@ -119,7 +119,7 @@ the system and be assigned to one engineer who will take the action
 accordingly. This document will describe step by step in how to use
 the Watad ITSM.
 
-## **User Classification** 
+# **User Classification** 
 
 To gain access to the Watad ITSM system, you will need a username and
 password. Each account is given its own set of privileges and services.
@@ -130,7 +130,7 @@ The diagram below depicts each region and their plants.
 <img src="./media/image0.png" style="width:6.9in;height:3.47917in" />
 
 
-## **Start with Watad ITSM**
+# **Start with Watad ITSM**
 
 This section describes how to access the Watad ITSM system and all the
 portal pages. This system requires the use of a web browser where the
@@ -149,7 +149,7 @@ team Figure (1).
 
 <img src="./media/image2.png" style="width:6.9in;height:3.47917in" />
 
-## **Exploring The Watad ITSM Pages**
+# **Exploring The Watad ITSM Pages**
 
 The user has two major profiles: "self-service" and "Ticket," each of
 which tries to deliver various services while maintaining the same
@@ -159,7 +159,7 @@ logic.
 ITSM’s page consists of four areas which are shared by the two profiles
 ("self-service" and "Ticket"), refer to the below Figure (2).
 
-### **Area-1**  
+## **Area-1**  
 <img src="./media/image6.png" style="width:4.11319in;height:0.20347in" />
 
 -   Search box: user can search in the system from this box <span
@@ -226,7 +226,7 @@ ITSM’s page consists of four areas which are shared by the two profiles
 
     -   API token
 
-### **Area- 2** 
+## **Area- 2** 
 <img src="./media/image11.png" style="width:0.27986in;height:0.24236in" />
 
 When the user clicks this button, a pop-up page will be displayed, as
@@ -236,7 +236,7 @@ the profile type.
 <img src="./media/image12.png"
 style="width:3.87847in;height:1.60069in" />
 
-### **Area-3** 
+## **Area-3** 
 <img src="./media/image14.png" style="width:1.40139in;height:0.24236in" />
 
 <img src="./media/image15.png"
@@ -258,7 +258,9 @@ style="width:1.37083in;height:0.60625in" />
 From the drop-down menu, the user can alter his or her profile
 depending on the functionality that must be performed.
 
-## **Self – Service profile** 
+# **Self – Service profile** 
+
+## Overview
 
 When a user logs into the account, "Self-Service" profile with four
 areas will appear by default Figure(6). Where the default profile can
