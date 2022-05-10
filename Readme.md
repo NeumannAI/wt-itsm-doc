@@ -87,6 +87,12 @@ style="width:4in;height:3in" /></td>
 <td><p><strong>ITSM manual</strong></p></td>
 <td><p><strong>Maha Alhobishi</strong> </p></td>
 </tr>
+<tr class="odd">
+<td><p>2.0 </p></td>
+<td><p><strong>10</strong> <strong>May</strong> 2022 </p></td>
+<td><p><strong>ITSM manual</strong></p></td>
+<td><p><strong>Maha Alhobishi</strong> </p></td>
+</tr>
 </tbody>
 </table>
 
@@ -106,18 +112,19 @@ The **objectives** of this Manual are to: 
 
 ## **System Overview**
 
-Watad ITSM is an IT service management designed to manage all the
-network assets that located in our customers premises. The goal of
-Watad ITSM is to deliver high quality support services to our
-customers and assure the provisioning of services required to support
-and sustain customer satisfactions. The ITSM system will facilities
-the communication between the customers and the service providers that
-include feature request, and incident request by utilizing the Watad
-ITSM portal. The portal will be available 24x7 to receive any request
-via customers, and hence the request will be processed immediately in
-the system and be assigned to one engineer who will take the action
-accordingly. This document will describe step by step in how to use
-the Watad ITSM.
+Watad ITSM is an IT service management system that helps our customers manage all their network assets. Watad ITSM's mission is to provide high-quality customer support and ensure the provisioning of services required to support and maintain customer satisfaction. Using the Watad ITSM site, the ITSM system will facilitate communication between consumers and service providers, including feature requests and incident requests. The portal will be available 24 /7 to receive client requests, which will be processed promptly in the system and allocated to one engineer who will take appropriate action. This document will walk you through the steps of using Watad ITSM.
+
+# 
+HOW TO REQUEST A TICKET?
+
+User can request ticket to express the need by three different ways as mentioned bellow:    
+
+1-	User can submit a request from “ www.support.watadenergy.com” see (Submit a request from Watad ITSM system) .
+  
+2-	User can send an email to “help@support.watadenergy.com” and the ticket will be created immediately.
+  
+3-	User can contact an operator directly (or by telephone: +966 0138836006).
+
 
 # **User Classification** 
 
@@ -185,11 +192,11 @@ ITSM’s page consists of four areas which are shared by the two profiles
 -   Language: user can change the language of the system from here.
 
 -   Password: every user must follow the criteria which is minimum
-    length: 8 and it must contain: Digit, Lowercase, Uppercase, Symbol
+    length is 8 and it must contain: Digit, Lowercase, Uppercase, Symbol
 
 -   Password confirmation: repeat the password here to verify
 
--   Phone: user phone number
+-   Phone: user default phone number
 
 -   Mobile Phone: user mobile number
 
@@ -325,7 +332,11 @@ style="width:6.83333in;height:1.37292in" />
 <img src="./media/image33.png"
 style="width:0.69444in;height:0.22917in" />
 
-### **Area-2** 
+
+### **Area-2**  
+	This area will provide a list of tickets for where the user was the requester, together with the ticket's details, see (Ticket) to get more information.
+
+### **Area-3** 
 
 There are two tools available for the user which is “personal reminder”
 and “personal RSS feed” Figure (11).
@@ -668,5 +679,5 @@ to the authentication page.
 <img src="./media/image84.png" style="width:6.9in;height:3.55486in" />
 
 # **Conclusion**
-
-I will write it
+ 
+ Watad ITSM is an IT service management system that assists our customers in managing their whole network devices. Watad ITSM's purpose is to provide outstanding customer service and to ensure that the services required to support and maintain customer satisfaction are provided. In this manual all the functionality and services of Watad ITSM described. 
